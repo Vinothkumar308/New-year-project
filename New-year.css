@@ -1,0 +1,45 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    width:100vw;
+    height:100vh;
+    background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.2)),url("../media/eeee.avif");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:#fff;
+    background-position:center;
+}
+.first{
+    display:flex;
+    gap:35px;
+    margin-top:20px;
+    font-size:35px;
+    font-weight:bold;
+}
+
+h2{
+    font-size:25px;
+    text-transform:capitalize;
+    text-shadow:0px 0px 3px black;
+}
+h1{
+    font-size:60px;
+    text-transform:capitalize;
+    text-shadow:0px 0px 3px black; 
+    margin-top:20px;
+}
+.counter{
+    text-align:center
+}
+.counter .child{
+    font-size:25px;
+    text-transform:capitalize;
+    margin-top:10px;
+}
+

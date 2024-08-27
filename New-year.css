@@ -9,7 +9,7 @@ body{
     flex-direction:column;
     width:100vw;
     height:100vh;
-    background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.2)),url("../media/eeee.avif");
+    background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.2)),url("eeee.avif");
     background-repeat: no-repeat;
     background-size:cover;
     color:#fff;
